@@ -81,7 +81,7 @@ const vars = {
      * Components
      */
     "payment-btn--background": "#4062F6",
-    "payment-btn--background": "#FFFFFF",
+    "payment-btn--text": "#FFFFFF",
     
     // Vlak dat naar boven geswiped wordt met cart
     "payment-float--background": "#E3E8FE",

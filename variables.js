@@ -101,4 +101,14 @@ const vars = {
     // Order summary
     "summ--background": "#E3E8FE",
     "summ-children--background": "#F8FAFF",
+    
+    // Steps
+    "steps--background": "#E3E8FE",
+    "steps--text": "#95A8FA",
+    "steps--number": "#95A8FA",
+    "steps--line": "#E3E8FE", // achterliggende lijn wijzigd niet naar active
+    
+    "steps-active--background": "#E3E8FE",
+    "steps-active--text": "#627EF8",
+    "steps-active--number": "#95A8FA"
 }

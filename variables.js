@@ -37,9 +37,9 @@ const vars = {
     /**
      * Buttons voor destructieve acties
      */
-    "btn-warning--background": "#FEE3E3",
-    "btn-warning--text": "#F86262",
-    "btn-warning--icon": "#FBA2A2",
+    "btn-destructive--background": "#FEE3E3",
+    "btn-destructive--text": "#F86262",
+    "btn-destructive--icon": "#FBA2A2",
     
     /**
      * Borders
